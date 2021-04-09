@@ -1,0 +1,10 @@
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojAssemblyReference.cache
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+D:\Программирование\OlapleshAcademyPrj\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
